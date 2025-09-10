@@ -42,6 +42,14 @@
   <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=protonvpn&logoColor=white" alt="Cybersecurity" height="40"/>
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" height="40"/><br>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" height="40"/><br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="40"/><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" height="40"/><br>
+  <img src="https://img.shields.io/badge/Networking-0078D7?style=flat-square&logo=cisco&logoColor=white" alt="Networking" height="40"/><br>
+  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=protonvpn&logoColor=white" alt="Cybersecurity" height="40"/>
+</p>
 
 ---
 
