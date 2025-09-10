@@ -44,7 +44,7 @@
 ---
 
 ## 🌐 Connect with Me  
-- [LinkedIn](https://linkedin.com/in/tuusuario)  
+- [LinkedIn] https://www.linkedin.com/in/manuel-domingo-acedo-v%C3%A9lez-3848b1367/
 - [GitHub](https://github.com/Redz-10111)  
 
 ---
