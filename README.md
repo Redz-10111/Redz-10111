@@ -18,12 +18,6 @@
 
 ## 🔑 Skills & Interests  
 
-![Linux](https://img.shields.io/badge/Linux-0078D7?style=flat-square&logo=linux&logoColor=black)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=flat-square&logo=cisco&logoColor=white)  
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=protonvpn&logoColor=white)  
 
 ![Linux](https://img.shields.io/badge/Linux-1E90FF?logo=linux&logoColor=white&style=flat)  
 ![Bash](https://img.shields.io/badge/Bash-9FEF00?logo=gnubash&logoColor=black&style=flat)  
@@ -31,13 +25,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)  
 ![Networking](https://img.shields.io/badge/Networking-0078D7?logo=cisco&logoColor=white&style=flat)  
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?logo=protonvpn&logoColor=white&style=flat)  
-
-![Linux](https://img.shields.io/badge/Linux-1E90FF?logo=linux&logoColor=white&style=flat-square)  
-![Bash](https://img.shields.io/badge/Bash-9FEF00?logo=gnubash&logoColor=black&style=flat-square)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)  
-![Networking](https://img.shields.io/badge/Networking-0078D7?logo=cisco&logoColor=white&style=flat-square)  
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?logo=protonvpn&logoColor=white&style=flat-square)  
 
 
 
