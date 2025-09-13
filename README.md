@@ -25,6 +25,14 @@
 ![Networking](https://img.shields.io/badge/Networking-0078D7?style=flat-square&logo=cisco&logoColor=white)  
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=flat-square&logo=protonvpn&logoColor=white)  
 
+![Linux](https://img.shields.io/badge/Linux-Terminal-1E90FF?logo=linux&logoColor=white&style=for-the-badge)  
+![Bash](https://img.shields.io/badge/Bash-Scripting-9FEF00?logo=gnubash&logoColor=black&style=for-the-badge)  
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white&style=for-the-badge)  
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python&logoColor=white&style=for-the-badge)  
+![Networking](https://img.shields.io/badge/Networking-Cisco-0078D7?logo=cisco&logoColor=white&style=for-the-badge)  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Defense%20%26%20Attack-FF0000?logo=protonvpn&logoColor=white&style=for-the-badge)  
+
+
 
 
 ---
