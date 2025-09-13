@@ -20,13 +20,10 @@
 
 ![Bash](https://img.shields.io/badge/Bash-Scripting-9FEF00?logo=gnu-bash&logoColor=white)<br>
 ![Linux](https://img.shields.io/badge/Linux-Terminal-blue?logo=linux&logoColor=black)<br>
-![HackTheBox](https://img.shields.io/badge/HackTheBox-Labs-9FEF00?logo=hackthebox&logoColor=green)<br>
-
-![Linux](https://img.shields.io/badge/Linux-Terminal-1E90FF?logo=linux&logoColor=white&style=flat)  
-![Bash](https://img.shields.io/badge/Bash-Scripting-9FEF00?logo=gnubash&logoColor=black&style=flat)  
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git&logoColor=white&style=flat)  
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python&logoColor=white&style=flat)  
-![Networking](https://img.shields.io/badge/Networking-Cisco-0078D7?logo=cisco&logoColor=white&style=flat)  
+![HackTheBox](https://img.shields.io/badge/HackTheBox-Labs-9FEF00?logo=hackthebox&logoColor=green)<br> 
+![Git](https://img.shields.io/badge/Git-Version%20Control-FF0000?logo=git&logoColor=red&style=flat)  
+![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python&logoColor=blue&style=flat)  
+![Networking](https://img.shields.io/badge/Networking-Cisco-0078D7?logo=cisco&logoColor=blue&style=flat)  
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Defense%20%26%20Attack-FF0000?logo=shield&logoColor=white&style=flat)  
 
 
