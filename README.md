@@ -19,11 +19,11 @@
 ## 🔑 Skills & Interests  
 
 ![Bash](https://img.shields.io/badge/Bash-Scripting-9FEF00?logo=gnu-bash&logoColor=white)<br>
-![Linux](https://img.shields.io/badge/Linux-Terminal-0078D7?logo=linux&logoColor=0078D7)<br>
+![Linux](https://img.shields.io/badge/Linux-Terminal-0078D7?logo=linux&logoColor=black)<br>
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-Labs-9FEF00?logo=hackthebox&logoColor=green)<br> 
 ![Git](https://img.shields.io/badge/Git-Version%20Control-FF0000?logo=git&logoColor=red&style=flat)  
 ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?logo=python&logoColor=0078D7&style=flat)  
-![Networking](https://img.shields.io/badge/Networking-Cisco-0078D7?logo=cisco&logoColor=blue&style=flat)  
+![Networking](https://img.shields.io/badge/Networking-Cisco-0078D7?logo=cisco&logoColor=0078D7&style=flat)  
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Defense%20%26%20Attack-FF0000?logo=shield&logoColor=white&style=flat)  
 
 
