@@ -22,7 +22,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Terminal-0078D7?logo=linux&logoColor=black)<br>
 ![Networking](https://img.shields.io/badge/Networking-Cisco-0078D7?logo=cisco&logoColor=red&style=flat)  
 ![Python](https://img.shields.io/badge/Python-Scripting-0078D7?logo=python&logoColor=0078D7&style=flat)   
-![GitHub](https://img.shields.io/badge/GitHub-Repository-purple?logo=github&logoColor=white&style=flat)  
+![GitHub](https://img.shields.io/badge/GitHub-Repository-0078D7?logo=github&logoColor=white&style=flat)  
 ![Git](https://img.shields.io/badge/Git-Version%20Control-FF0000?logo=git&logoColor=red&style=flat)  
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Defense%20%26%20Attack-FF0000?logo=shield&logoColor=white&style=flat)  
 
