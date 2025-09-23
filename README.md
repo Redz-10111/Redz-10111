@@ -46,7 +46,7 @@
 ---
 
 ## 🌐 Connect with Me  
-- [LinkedIn](www.linkedin.com/in/manuel-redz10111)
+- [LinkedIn]([www.linkedin.com/in/manuel-redz10111])
 
 - [GitHub](https://github.com/Redz-10111)  
 
