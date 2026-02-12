@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manuel Domingo Acedo  
+# 👋 Hi, I'm Manuel Domingo Acedo Vélez
 
 🔐 **Self-taught cybersecurity student** passionate about Linux, ethical hacking, and building secure, replicable environments.  
 💻 Currently learning, practicing, and documenting my journey step by step toward becoming a cybersecurity professional.  
