@@ -20,7 +20,8 @@
 ![Networking](https://img.shields.io/badge/Networking-TCP/IP-informational)   
 ![Docker](https://img.shields.io/badge/Docker-Labs-blue)   
 ![Git](https://img.shields.io/badge/Git-Version_Control-red)   
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red%20%26%20Blue-darkred)   
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red%20%26%20Blue-purple)
+
 
 
 ## 🚀 Active Projects  
